@@ -1,6 +1,7 @@
 Kevin.Console
 ==========
 This is a console interface to Kevin
+Requires Kevin.Core https://github.com/OperationKevin/Kevin.Core
 
 ![alt tag](https://raw.githubusercontent.com/OperationKevin/Kevin.Console/master/show.gif)
 
